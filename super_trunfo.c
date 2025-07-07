@@ -16,7 +16,7 @@
     scanf( "%c", &estado);
 
     printf("Códgo:");
-    scanf("%s",  &código);
+    scanf("%s",  código);
 
     printf("Nome da Cidade:");
     scanf("%s" , &cidade);
@@ -41,7 +41,7 @@
     scanf("%s", &estado);
 
     printf("Códgo:");
-    scanf("%s",  &código);
+    scanf("%s",  código);
 
     printf("Nome da Cidade:");
     scanf("%s" , &cidade);
